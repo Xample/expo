@@ -6,6 +6,8 @@
 
 ### 🎉 New features
 
+- [iOS] Added support for task expiration handler on iOS.
+
 ### 🐛 Bug fixes
 
 ### 💡 Others
